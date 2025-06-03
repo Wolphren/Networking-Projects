@@ -26,10 +26,10 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 |Date      |Start Time|Category|Description                                 |Total Minutes|
 |----------|----------|:------:|--------------------------------------------|:-----------:|
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+|5/28/2025 |2:00      |MTG     |Planning Meeting                            |60           |
+|5/30/2025 |2:00      |MTG     |Stand-Up Meeting                            |60           |
+|6/2/2025  |2:00      |TP      |Worked on creating a working Forum          |60           |
+|6/2/2025  |3:30      |TP      |Connected Database to Login and Signup page |180          |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 
