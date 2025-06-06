@@ -1,8 +1,8 @@
 # CSE 310 - Sprint Time Log
 
-Name:
+Name: File Transfer Network
 
-Sprint #:
+Sprint #: 3
 
 ## Instructions
 
@@ -30,6 +30,13 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |5/30/2025 |2:00      |MTG     |Stand-Up Meeting                            |60           |
 |6/2/2025  |2:00      |TP      |Worked on creating a working Forum          |60           |
 |6/2/2025  |3:30      |TP      |Connected Database to Login and Signup page |180          |
+|6/3/2025  |10:00     |IM      |Research and Echo Server                    |120          |
+|6/4/2025  |2:00      |MTG     |Team Review Meeting                         |60           |
+|6/5/2025  |9:00      |IM      |Multiple Connection Server                  |240          |
+|6/6/2025  |9:00      |IM      |Final Project Server                        |240          |
+|6/6/2025  |2:00      |MTG     |Individual Review Meeting                   |60           |
+|          |          |        |                                            |             |
+|          |          |        |                                            |             |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 
@@ -39,7 +46,7 @@ _Note: Add more rows as needed._
 
 |Categroy                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         |                          |
-|TP - Team Project              |                          |
-|MTG - Class Meetings           |                          |
-|**TOTAL**                      |                          |
+|IM - Individual Module         |10:00                     |
+|TP - Team Project              |4:00                      |
+|MTG - Class Meetings           |4:00                      |
+|**TOTAL**                      |18:00                     |
